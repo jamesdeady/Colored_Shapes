@@ -33,12 +33,10 @@ How to Run the Program
    (Tested with IntelliJ IDEA and Eclipse)
 
 2. Build the project
-   Make sure all `.java` files are compiled. You may need to set the `src` folder as your 
-   source directory.
+   Make sure all `.java` files are compiled. You may need to set the `src` folder as     your source directory.
 
 3. Run the main class 
-   The class containing the `main` method will read a scene definition file and launch the 
-   GUI.
+   The class containing the `main` method will read a scene definition file and    launch the GUI.
 
 4. Use a valid scene input file  
    Example format:
@@ -53,7 +51,7 @@ End.
 
 Sample Output
 
-![Sample Output](Project%201-2.png)
+coloredshapesproject.png
 
 (This image was captured from the actual running program.)
 
